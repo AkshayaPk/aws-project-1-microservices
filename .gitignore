@@ -5,6 +5,7 @@ target/
 !**/src/test/**
 
 ### STS ###
+.mvn
 .apt_generated
 .classpath
 .factorypath
